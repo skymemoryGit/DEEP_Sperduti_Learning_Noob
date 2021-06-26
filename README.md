@@ -1,5 +1,7 @@
-# DEEP_Sperduti_Learning_Noob
-Report this course for AFK knowledge.
+# DEEP Learning Homework 
+This reporsitory contains all homeworks for the course "deep learning " 2020/2021 of university of padua. 
+
+Jiancheng Ye
 
 
 
